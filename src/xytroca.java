@@ -1,7 +1,7 @@
 // Elabore um algoritimo em java que permita a entrada de 2 valoes x e y, que pege valores x e y, troque seus valores entre si e então exiba os novos  resultados
 import java.util.Scanner;
 
-public class App {
+public class xytroca {
     public static void main(String[] args) throws Exception {
         
         
